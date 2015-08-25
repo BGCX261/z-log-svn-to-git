@@ -1,0 +1,17 @@
+#labels Featured
+#Главная страница.
+
+====MiTex T-Log (mini Blog) engine OpenSource (GPLv3) (oppened when done first release) Write in PHP (5.x, with SQLite)====
+
+*All subsequent reports, information, the status of the project, as well as the participants would only communicate in Russian. However, suggestions, comments and messages you can send us and in the English language, too.*
+----
+
+
+Добро пожаловать на страницу проекта разработки "Z-Log" (ZoRg SoftWare T-Log), это пока временное, рабочее название проекта, в дальнейшем оно будет изменено.
+
+Данный проект, будет разрабатываться на языке PHP (5.x) с использованием базы данных
+[http://www.sqlite.org/ SQLite], также возможно будет использоваться библиотека [http://jquery.com/ jQuery] и [http://www.smarty.net/ Smarty].
+
+----
+
+*Более подробную информацию по проекту, Вы можете узнать из моего блога о [http://mitex-log.blogspot.com/ MiTex T-Log]*

@@ -1,0 +1,12 @@
+#labels Featured
+#Скриншоты
+=== Скриншоты ===
+
+*Здесь буду размещать скриншоты движка в работе.*
+
+
+* Примерный набросок *
+
+Это первый скрин, так будет выглядеть окончательный дизайн и структура основной страницы (хотя в процессе разработки может еще что поменяется или кто предложит лучший дизайн):
+
+[http://bp1.blogger.com/_TY4xVSTO7wU/R-fcO-b1HWI/AAAAAAAAAK4/8HJV_rIGyz4/s1600-h/tlog_default.jpg http://bp1.blogger.com/_TY4xVSTO7wU/R-fcO-b1HWI/AAAAAAAAAK4/8HJV_rIGyz4/s320/tlog_default.jpg]

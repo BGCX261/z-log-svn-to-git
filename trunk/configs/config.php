@@ -1,0 +1,18 @@
+<?php
+///////////////////////////////////////////////////////////////////////////////
+// --- Configuration file for T-Log
+///////////////////////////////////////////////////////////////////////////////
+// Copyright (C) 2008 by Sergey Agarkov (ZoRg)
+// E-Mail: zorgsoft@gmail.com
+// WEB: http://mydiary.net.ru
+// ICQ: 6371025
+///////////////////////////////////////////////////////////////////////////////
+
+// 
+define ("SMARTY_DIR", "./libs/smarty/");
+// define ("CONST_BASEDIR", "/tlog");
+define ("CONST_DBNAME", "./db/tlog.sqlite");
+define ("CONST_DBLOGIN", "");
+define ("CONST_DBPASS", "");
+
+?>
